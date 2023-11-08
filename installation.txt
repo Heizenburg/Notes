@@ -28,3 +28,5 @@ python -m ipykernel install --user --name golden_scenario_env --display-name "Go
 Also if you want to support PDF export from jupyter you need to setup LaTeX:
 
 sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-generic
+
+NB: Install pip/pip3 packages using your anaconda prompt. IE) Check the Python environment: If you are using virtual environments (e.g., venv or conda), ensure that you have activated the correct environment where the twilio module is installed. Activate the environment using the appropriate command for your environment.
