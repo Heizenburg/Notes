@@ -1,0 +1,18 @@
+- path: R:\RawData\Elite Star\Devland\Done
+  age_threshold_days: 30
+- path: R:\RawData\Elite Star\PriceRite Cash & Carry\done
+  age_threshold_days: 30
+- path: R:\RawData\Elite Star\Phoenix\Done
+  age_threshold_days: 30
+- path: R:\RawData\Elite Star\Yarona\Done
+  age_threshold_days: 30
+- path: R:\RawData\Elite Star\One Up Cash & Carry\Done
+  age_threshold_days: 30
+- path: R:\RawData\PNP B2B\Daily Client File Downloads
+  age_threshold_days: 2
+- path: R:\RawData\PNP SAP\Client File Downloads
+  age_threshold_days: 30
+- path: R:\RawData\OKFOODS\Done
+  age_threshold_days: 7
+- path: R:\RawData\Engen\EngenWeekly
+  age_threshold_days: 7
