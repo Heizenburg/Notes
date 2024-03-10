@@ -9,7 +9,7 @@
 - path: R:\RawData\Elite Star\One Up Cash & Carry\Done
   age_threshold_days: 30
 - path: R:\RawData\PNP B2B\Daily Client File Downloads
-  age_threshold_days: 2
+  age_threshold_days: 3
 - path: R:\RawData\PNP SAP\Client File Downloads
   age_threshold_days: 30
 - path: R:\RawData\OKFOODS\Done
