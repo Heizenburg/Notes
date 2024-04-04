@@ -33,7 +33,3 @@ class SFTPDownloader:
         for directory in directories:
             self._download_files(sftp, remote_folder + '/' + directory, local_folder + '/' + directory)
         print("Downloading complete")
-
-
-
-
