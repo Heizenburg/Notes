@@ -16,3 +16,11 @@
   age_threshold_days: 7
 - path: R:\RawData\Engen\EngenWeekly
   age_threshold_days: 7
+- path: R:\RawData\Game\Done
+  age_threshold_days: 14
+- path: R:\RawData\Makro Updated\Done
+  age_threshold_days: 14
+- path: R:\RawData\Masscash\Retail\Done
+  age_threshold_days: 14  
+- path: R:\RawData\Masscash\Wholesale\Done
+  age_threshold_days: 14

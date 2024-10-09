@@ -33,10 +33,8 @@ class FileHandler(FileSystemEventHandler):
         self.parameters = parameters
 
     def on_created(self, event):
-        # Check if the created file matches any of the parameters
         for params in self.parameters:
             if params['keyword'] in event.src_path:
-                # Move the file based on the keyword
                 move_files_based_on_keyword(self.source_dir, params['target_dir'], params['keyword'])
 
 def move_files_based_on_keyword(source_dir, target_dir, keyword):
@@ -47,23 +45,26 @@ def move_files_based_on_keyword(source_dir, target_dir, keyword):
                         and file.endswith('.txt') 
                         and not any(excluded_keyword.lower() in file.lower() for excluded_keyword in EXCLUDED_KEYWORDS)
                         ]
-        
+
         if not files_to_move:
             logging.info(f"No files with the keyword '{keyword}' found in {source_dir}. Skipping move operation.")
             return
 
-        # Move each file to the target directory
+        # Move each file to the target directory if it doesn't already exist
         for file in files_to_move:
             source = os.path.join(source_dir, file)
             destination = os.path.join(target_dir, file)
-            shutil.move(source, destination)
-            logging.info(f"Moved {file} to {destination}")
+            if not os.path.exists(destination):
+                shutil.move(source, destination)
+                logging.info(f"Moved {file} to {destination}")
+            else:
+                logging.info(f"Skipping {file} as it already exists in {target_dir}")
+
     except Exception as e:
         logging.error(f"Error moving files: {str(e)}")
 
 def monitor_files(source_folder, parameters, max_inactive_time):
     try:
-        # Move any existing files based on the parameters
         for params in parameters:
             move_files_based_on_keyword(source_folder, params['target_dir'], params['keyword'])
 
@@ -77,7 +78,7 @@ def monitor_files(source_folder, parameters, max_inactive_time):
         start_time = time.time()
         while True:
             if time.time() - start_time >= max_inactive_time:
-                logging.info(f"No new files detected for the past {int(max_inactive_time/60)} minutes. Terminating script.")
+                logging.info(f"No new files detected for the past {int(max_inactive_time / 60)} minutes. Terminating script.")
                 observer.stop()
                 break
 
@@ -114,10 +115,8 @@ if __name__ == "__main__":
 """
 ---------------- USAGE ------------------------
 1) In the terminal, run the following command:
-> cd notebooks/massmart/
-2) Run the program
-> python massmart_placement.py
-3) If you want to add parameters, run the following command:
+> cd notebooks/massmart/ && python massmart_placement.py
+2) If you want to add parameters, run the following command:
 > python massmart_placement.py --source_folder R:\RawData\Massmart Data --parameters "[{'target_dir': r'R:\RawData\Masscash\\Wholesale\ToUpload', 'keyword': 'MassCashWholesale'}]" --time 60
 -----------------------------------------------
 """
