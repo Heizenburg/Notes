@@ -8,24 +8,28 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Email configuration
-TO_ADDRESS = 'nasier@oneupcc.co.za'
+TO_ADDRESS = 'thato.sello@circana.com'
+# TO_ADDRESS = 'nasier@oneupcc.co.za'
 CC_ADDRESSES = (
-  'Marcus.Hendricks@Circana.com;'
-  'Nabeela.Ebrahim@circana.com;'
-  'Thato.Sello@circana.com;'
-  'Varisha.Satayapal@circana.com;'
-  'Gift.Mdlalose@circana.com;'
-  'Kiash.Kalipersad@Circana.com'
-  'Simphiwe.Telana@circana.com'
+  # 'Marcus.Hendricks@Circana.com;'
+  # 'Nabeela.Ebrahim@circana.com;'
+  # 'Thato.Sello@circana.com;'
+  # 'Varisha.Satayapal@circana.com;'
+  # 'Gift.Mdlalose@circana.com;'
+  # 'Kiash.Kalipersad@Circana.com'
+  # 'Simphiwe.Telana@circana.com'
 )
+
 
 # SFTP configuration
 SFTP_HOST = os.getenv('FTP_HOST')
 SFTP_USERNAME = os.getenv('FTP_USERNAME')
 SFTP_PASSWORD = os.getenv('FTP_PASSWORD')
 SFTP_PORT = int(os.getenv('FTP_PORT', 22))
+MY_EMAIL = os.getenv('MY_EMAIL')
 SFTP_REMOTE_FOLDER = '/euestup1ftp/Up'  
 DAYS_THRESHOLD = 3  # Maximum allowed days since last file upload
+DOWNLOAD_LOCATION = r'R:\RawData\Elite Star\One Up Cash & Carry\ToUpload'
 
 class SFTPChecker:
   def __init__(self, host, username, password, port=22):
@@ -74,14 +78,28 @@ class SFTPChecker:
       print(f"Failed to list files in SFTP folder: {e}")
       return []
 
-def send_email(subject, body):
+  def download_file(self, remote_folder, file_name, local_folder):
+    """Download a file from the SFTP server to a local folder."""
+    cnopts = pysftp.CnOpts()
+    cnopts.hostkeys = None  # Disable host key checking
+    try:
+      with pysftp.Connection(self.host, username=self.username, password=self.password, port=self.port, cnopts=cnopts) as sftp:
+        sftp.cwd(remote_folder)
+        local_path = os.path.join(local_folder, file_name)
+        sftp.get(file_name, local_path)
+        print(f"File '{file_name}' downloaded to '{local_path}'.")
+        return local_path
+    except Exception as e:
+      print(f"Failed to download file '{file_name}': {e}")
+      return None
+
+def send_email(subject, body, to_address):
   """Send an email using Outlook."""
   outlook = win32.Dispatch('outlook.application')
   mail = outlook.CreateItem(0)  # 0 represents MailItem type
 
   # Set email parameters
-  mail.To = TO_ADDRESS
-  mail.CC = CC_ADDRESSES
+  mail.To = to_address
   mail.Subject = subject
   mail.Body = body
 
@@ -92,18 +110,25 @@ def send_email(subject, body):
     print(f"Failed to send email: {e}")
 
 def main():
-  # Initialize SFTP checker
   sftp_checker = SFTPChecker(SFTP_HOST, SFTP_USERNAME, SFTP_PASSWORD, SFTP_PORT)
-
-  # Get the latest file and its modification date
   latest_file, latest_modified_date = sftp_checker.get_latest_file_info(SFTP_REMOTE_FOLDER)
-
   # Calculate the date threshold (3 days ago)
   threshold_date = datetime.datetime.now() - datetime.timedelta(days=DAYS_THRESHOLD)
 
-  # Check if the latest file is older than the threshold
-  if latest_modified_date is None or latest_modified_date < threshold_date:
-    # Prepare email subject and body
+  # Check if the latest file is recent
+  if latest_modified_date is not None and latest_modified_date >= threshold_date:
+    downloaded_file_path = sftp_checker.download_file(SFTP_REMOTE_FOLDER, latest_file, DOWNLOAD_LOCATION)
+    if downloaded_file_path:
+      subject = f'File Downloaded: {latest_file}'
+      body = (
+        f"The latest file '{latest_file}' was downloaded from the SFTP server.\n\n"
+        f"Download location: {downloaded_file_path}\n\n"
+        f"File was last modified on: {latest_modified_date.strftime('%d %b %Y %H:%M:%S')}.\n\n"
+        "Regards,\nThato"
+      )
+      send_email(subject, body, MY_EMAIL)
+  else:
+    # Prepare email subject and body for Nasier
     today = datetime.date.today()
     last_week_sunday = today - datetime.timedelta(days=today.weekday() + 1)  # Latest Sunday
     last_week_sunday = last_week_sunday.strftime("%d %b %Y")
@@ -134,10 +159,8 @@ def main():
 
     body += "\n\nRegards,\nThato"
 
-    # Send the email
-    send_email(subject, body)
-  else:
-    print("No reminder needed. The latest file was uploaded within the last 3 days.")
+    # Send the email to Nasier
+    send_email(subject, body, TO_ADDRESS)
 
 if __name__ == "__main__":
   main()
