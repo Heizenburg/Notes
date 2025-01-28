@@ -7,19 +7,16 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-# Email configuration
-TO_ADDRESS = 'thato.sello@circana.com'
-# TO_ADDRESS = 'nasier@oneupcc.co.za'
+TO_ADDRESS = 'Thato.Sello@circana.com;'
 CC_ADDRESSES = (
-  # 'Marcus.Hendricks@Circana.com;'
-  # 'Nabeela.Ebrahim@circana.com;'
-  # 'Thato.Sello@circana.com;'
-  # 'Varisha.Satayapal@circana.com;'
-  # 'Gift.Mdlalose@circana.com;'
-  # 'Kiash.Kalipersad@Circana.com'
-  # 'Simphiwe.Telana@circana.com'
+  'Marcus.Hendricks@Circana.com;'
+  'Nabeela.Ebrahim@circana.com;'
+  'Thato.Sello@circana.com;'
+  'Varisha.Satayapal@circana.com;'
+  'Gift.Mdlalose@circana.com;'
+  'Kiash.Kalipersad@Circana.com'
+  'Simphiwe.Telana@circana.com'
 )
-
 
 # SFTP configuration
 SFTP_HOST = os.getenv('FTP_HOST')
@@ -115,18 +112,17 @@ def main():
   # Calculate the date threshold (3 days ago)
   threshold_date = datetime.datetime.now() - datetime.timedelta(days=DAYS_THRESHOLD)
 
-  # Check if the latest file is recent
   if latest_modified_date is not None and latest_modified_date >= threshold_date:
     downloaded_file_path = sftp_checker.download_file(SFTP_REMOTE_FOLDER, latest_file, DOWNLOAD_LOCATION)
     if downloaded_file_path:
-      subject = f'File Downloaded: {latest_file}'
+      subject = f'EST 1UP | File Downloaded: {latest_file}'
       body = (
         f"The latest file '{latest_file}' was downloaded from the SFTP server.\n\n"
         f"Download location: {downloaded_file_path}\n\n"
         f"File was last modified on: {latest_modified_date.strftime('%d %b %Y %H:%M:%S')}.\n\n"
-        "Regards,\nThato"
+        "Regards,\nThato (automated)"
       )
-      send_email(subject, body, MY_EMAIL)
+      send_email(subject, body, TO_ADDRESS)
   else:
     # Prepare email subject and body for Nasier
     today = datetime.date.today()
