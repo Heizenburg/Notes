@@ -19,7 +19,7 @@ smtp_server    = os.getenv('SMTP_SERVER')
 smtp_port      = os.getenv('SMTP_PORT') # or 465 for SSL
 
 ftp_directory = '/euestup1ftp/Up'
-# Function to list files using pysftp
+
 def list_files():
     cnopts = pysftp.CnOpts()
     cnopts.hostkeys = None  # Disable host key checking
