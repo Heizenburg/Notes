@@ -133,8 +133,8 @@ if __name__ == "__main__":
 """
 ---------------- USAGE ------------------------
 1) In the terminal, run the following command:  
-> cd notebooks/massmart/ && python massmart_placement.py
+  > cd notebooks/massmart/ && python massmart_placement.py
 2) If you want to add parameters, run the following command:
-> python massmart_placement.py --source_folder R:\RawData\Massmart Data --parameters "[{'target_dir': r'R:\RawData\Masscash\\Wholesale\ToUpload', 'keyword': 'MassCashWholesale'}]" --time 60
+  > python massmart_placement.py --source_folder R:\RawData\Massmart Data --parameters "[{'target_dir': r'R:\RawData\Masscash\\Wholesale\ToUpload', 'keyword': 'MassCashWholesale'}]" --time 60
 -----------------------------------------------
 """

@@ -1,0 +1,617 @@
+[1m[37mRetailer: Makro
+
+[32mMoved Adcock_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Adcock_Makro_Delta_WE_20250126.txt
+[32mMoved Adcock_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Adcock_Makro_WE_20250202.txt
+[32mMoved AfriqueSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\AfriqueSA_Makro_Delta_WE_20250126.txt
+[32mMoved AfriqueSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\AfriqueSA_Makro_WE_20250202.txt
+[32mMoved AlpenFoodsSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\AlpenFoodsSA_Makro_Delta_WE_20250126.txt
+[32mMoved AlpenFoodsSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\AlpenFoodsSA_Makro_WE_20250202.txt
+[32mMoved AspenSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\AspenSA_Makro_Delta_WE_20250126.txt
+[32mMoved AspenSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\AspenSA_Makro_WE_20250202.txt
+[32mMoved BIC_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\BIC_Makro_Delta_WE_20250126.txt
+[32mMoved BIC_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\BIC_Makro_WE_20250202.txt
+[32mMoved Campari_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Campari_Makro_Delta_WE_20250126.txt
+[32mMoved Campari_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Campari_Makro_WE_20250202.txt
+[32mMoved Chill_BeveragesSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Chill_BeveragesSA_Makro_Delta_WE_20250126.txt
+[32mMoved Chill_BeveragesSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Chill_BeveragesSA_Makro_WE_20250202.txt
+[32mMoved ClippaSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\ClippaSA_Makro_Delta_WE_20250126.txt
+[32mMoved ClippaSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\ClippaSA_Makro_WE_20250202.txt
+[32mMoved CloverSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\CloverSA_Makro_Delta_WE_20250126.txt
+[32mMoved CloverSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\CloverSA_Makro_WE_20250202.txt
+[32mMoved DanoneCircanaSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\DanoneCircanaSA_Makro_Delta_WE_20250126.txt
+[32mMoved DanoneCircanaSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\DanoneCircanaSA_Makro_WE_20250202.txt
+[32mMoved Dr_Oetker SA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Dr_Oetker SA_Makro_Delta_WE_20250126.txt
+[32mMoved Dr_Oetker SA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Dr_Oetker SA_Makro_WE_20250202.txt
+[32mMoved DuracellPhoenixSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\DuracellPhoenixSA_Makro_Delta_WE_20250126.txt
+[32mMoved DuracellPhoenixSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\DuracellPhoenixSA_Makro_WE_20250202.txt
+[32mMoved EnergizerSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\EnergizerSA_Makro_Delta_WE_20250126.txt
+[32mMoved EnergizerSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\EnergizerSA_Makro_WE_20250202.txt
+[32mMoved FroneriSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\FroneriSA_Makro_Delta_WE_20250126.txt
+[32mMoved FroneriSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\FroneriSA_Makro_WE_20250202.txt
+[32mMoved Tiger_Makro_Delta_WE_20220220.txt to R:\RawData\Makro Updated\\ToUpload\Tiger_Makro_Delta_WE_20220220.txt
+
+
+[1m[37mRetailer: MassDiscounters
+
+[32mMoved AdcockSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\AdcockSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved AdcockSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\AdcockSA_MassDiscounters_WE_20250202.txt
+[32mMoved AfriqueSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\AfriqueSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved AfriqueSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\AfriqueSA_MassDiscounters_WE_20250202.txt
+[32mMoved AlpenFoodsSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\AlpenFoodsSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved AlpenFoodsSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\AlpenFoodsSA_MassDiscounters_WE_20250202.txt
+[32mMoved AspenSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\AspenSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved AspenSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\AspenSA_MassDiscounters_WE_20250202.txt
+[32mMoved BICSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\BICSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved BICSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\BICSA_MassDiscounters_WE_20250202.txt
+[32mMoved CampariSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\CampariSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved CampariSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\CampariSA_MassDiscounters_WE_20250202.txt
+[32mMoved ClippaSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\ClippaSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved ClippaSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\ClippaSA_MassDiscounters_WE_20250202.txt
+[32mMoved CloverSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\CloverSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved CloverSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\CloverSA_MassDiscounters_WE_20250202.txt
+[32mMoved DanoneCircanaSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\DanoneCircanaSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved DanoneCircanaSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\DanoneCircanaSA_MassDiscounters_WE_20250202.txt
+[32mMoved DuracellSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\DuracellSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved DuracellSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\DuracellSA_MassDiscounters_WE_20250202.txt
+[32mMoved EnergizerSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\EnergizerSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved EnergizerSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\EnergizerSA_MassDiscounters_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashWholesale
+
+[32mMoved Adcock_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Adcock_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Adcock_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Adcock_MassCashWholesale_WE_20250202.txt
+[32mMoved AfriqueSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AfriqueSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved AfriqueSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AfriqueSA_MassCashWholesale_WE_20250202.txt
+[32mMoved AlpenFoodsSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AlpenFoodsSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved AlpenFoodsSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AlpenFoodsSA_MassCashWholesale_WE_20250202.txt
+[32mMoved AspenSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AspenSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved AspenSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AspenSA_MassCashWholesale_WE_20250202.txt
+[32mMoved Aspen_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Aspen_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Aspen_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Aspen_MassCashWholesale_WE_20250202.txt
+[32mMoved BIC_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\BIC_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved BIC_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\BIC_MassCashWholesale_WE_20250202.txt
+[32mMoved Campari_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Campari_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Campari_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Campari_MassCashWholesale_WE_20250202.txt
+[32mMoved Chill_Beverages_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Chill_Beverages_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Chill_Beverages_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Chill_Beverages_MassCashWholesale_WE_20250202.txt
+[32mMoved ClippaSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\ClippaSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved ClippaSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\ClippaSA_MassCashWholesale_WE_20250202.txt
+[32mMoved CloverSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\CloverSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved CloverSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\CloverSA_MassCashWholesale_WE_20250202.txt
+[32mMoved DanoneCircanaSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DanoneCircanaSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved DanoneCircanaSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DanoneCircanaSA_MassCashWholesale_WE_20250202.txt
+[32mMoved DuracellPhoenixSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DuracellPhoenixSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved DuracellPhoenixSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DuracellPhoenixSA_MassCashWholesale_WE_20250202.txt
+[32mMoved EnergizerSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\EnergizerSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved EnergizerSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\EnergizerSA_MassCashWholesale_WE_20250202.txt
+[32mMoved Froneri_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Froneri_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Froneri_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Froneri_MassCashWholesale_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashRetail
+
+[32mMoved Adcock_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\Adcock_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved Adcock_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\Adcock_MassCashRetail_WE_20250202.txt
+[32mMoved AlpenFoodsSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\AlpenFoodsSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved AlpenFoodsSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\AlpenFoodsSA_MassCashRetail_WE_20250202.txt
+[32mMoved AspenSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\AspenSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved AspenSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\AspenSA_MassCashRetail_WE_20250202.txt
+[32mMoved BIC_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\BIC_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved BIC_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\BIC_MassCashRetail_WE_20250202.txt
+[32mMoved Campari_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\Campari_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved Campari_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\Campari_MassCashRetail_WE_20250202.txt
+[32mMoved Chill_BeveragesSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\Chill_BeveragesSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved Chill_BeveragesSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\Chill_BeveragesSA_MassCashRetail_WE_20250202.txt
+[32mMoved ClippaSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\ClippaSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved ClippaSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\ClippaSA_MassCashRetail_WE_20250202.txt
+[32mMoved CloverSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\CloverSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved CloverSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\CloverSA_MassCashRetail_WE_20250202.txt
+[32mMoved DanoneCircanaSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\DanoneCircanaSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved DanoneCircanaSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\DanoneCircanaSA_MassCashRetail_WE_20250202.txt
+[32mMoved FroneriSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\FroneriSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved FroneriSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\FroneriSA_MassCashRetail_WE_20250202.txt
+
+
+[1m[37mRetailer: KitKat
+
+[32mMoved FroneriDairymaidsSA_KitKat_Delta_WE_20250126.txt to R:\RawData\KitKat\ToUpload\FroneriDairymaidsSA_KitKat_Delta_WE_20250126.txt
+[32mMoved FroneriDairymaidsSA_KitKat_WE_20250202.txt to R:\RawData\KitKat\ToUpload\FroneriDairymaidsSA_KitKat_WE_20250202.txt
+
+
+[1m[37mRetailer: Massbuild
+
+[32mMoved AGROSERVESA_Massbuild_Delta_WE_20250126.txt to R:\RawData\Massbuild\ToUpload\AGROSERVESA_Massbuild_Delta_WE_20250126.txt
+[32mMoved AGROSERVESA_Massbuild_WE_20250202.txt to R:\RawData\Massbuild\ToUpload\AGROSERVESA_Massbuild_WE_20250202.txt
+[32mMoved EnergizerSA_Massbuild_WE_20250202.txt to R:\RawData\Massbuild\ToUpload\EnergizerSA_Massbuild_WE_20250202.txt
+
+
+Monitoring R:\RawData\Massmart Data for new files...
+No new files detected for the past less than a minute. Terminating script.
+[1m[37mRetailer: Makro
+
+[32mMoved JoyaSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\JoyaSA_Makro_Delta_WE_20250126.txt
+[32mMoved JoyaSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\JoyaSA_Makro_WE_20250202.txt
+[32mMoved JTISA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\JTISA_Makro_Delta_WE_20250126.txt
+[32mMoved JTISA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\JTISA_Makro_WE_20250202.txt
+[32mMoved LactalisSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\LactalisSA_Makro_Delta_WE_20250126.txt
+[32mMoved LactalisSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\LactalisSA_Makro_WE_20250202.txt
+
+
+[1m[37mRetailer: MassDiscounters
+
+[32mMoved JoyaSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\JoyaSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved JoyaSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\JoyaSA_MassDiscounters_WE_20250202.txt
+[32mMoved JTISA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\JTISA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved JTISA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\JTISA_MassDiscounters_WE_20250202.txt
+[32mMoved LactalisSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\LactalisSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved LactalisSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\LactalisSA_MassDiscounters_WE_20250202.txt
+[32mMoved LindtSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\LindtSA_MassDiscounters_Delta_WE_20250126.txt
+
+
+[1m[37mRetailer: MassCashWholesale
+
+[32mMoved Joya_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Joya_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Joya_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Joya_MassCashWholesale_WE_20250202.txt
+[32mMoved JTISA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\JTISA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved JTISA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\JTISA_MassCashWholesale_WE_20250202.txt
+[32mMoved LactalisSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\LactalisSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved LactalisSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\LactalisSA_MassCashWholesale_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashRetail
+
+[32mMoved JoyaSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\JoyaSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved JoyaSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\JoyaSA_MassCashRetail_WE_20250202.txt
+[32mMoved JTISA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\JTISA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved JTISA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\JTISA_MassCashRetail_WE_20250202.txt
+[32mMoved LactalisSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\LactalisSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved LactalisSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\LactalisSA_MassCashRetail_WE_20250202.txt
+
+
+[1m[37mRetailer: KitKat
+
+[33mNo files with the keyword 'KitKat' found in R:\RawData\Massmart Data. Skipping move operation.
+
+[1m[37mRetailer: Massbuild
+
+[33mNo files with the keyword 'Massbuild' found in R:\RawData\Massmart Data. Skipping move operation.
+
+Monitoring R:\RawData\Massmart Data for new files...
+No new files detected for the past less than a minute. Terminating script.
+[1m[37mRetailer: Makro
+
+[32mMoved LindtSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\LindtSA_Makro_Delta_WE_20250126.txt
+[32mMoved LindtSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\LindtSA_Makro_WE_20250202.txt
+[32mMoved MarsSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\MarsSA_Makro_Delta_WE_20250126.txt
+[32mMoved MarsSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\MarsSA_Makro_WE_20250202.txt
+[32mMoved McCainSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\McCainSA_Makro_Delta_WE_20250126.txt
+[32mMoved McCainSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\McCainSA_Makro_WE_20250202.txt
+[32mMoved Mondelez_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Mondelez_Makro_Delta_WE_20250126.txt
+[32mMoved Mondelez_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Mondelez_Makro_WE_20250202.txt
+[32mMoved PernodRicardSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\PernodRicardSA_Makro_Delta_WE_20250126.txt
+[32mMoved PernodRicardSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\PernodRicardSA_Makro_WE_20250202.txt
+[32mMoved RCLSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\RCLSA_Makro_Delta_WE_20250126.txt
+[32mMoved RCLSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\RCLSA_Makro_WE_20250202.txt
+[32mMoved RhodesSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\RhodesSA_Makro_Delta_WE_20250126.txt
+[32mMoved RhodesSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\RhodesSA_Makro_WE_20250202.txt
+[32mMoved RIESESFOODSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\RIESESFOODSA_Makro_Delta_WE_20250126.txt
+[32mMoved RIESESFOODSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\RIESESFOODSA_Makro_WE_20250202.txt
+[32mMoved SANULACSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\SANULACSA_Makro_Delta_WE_20250126.txt
+[32mMoved SANULACSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\SANULACSA_Makro_WE_20250202.txt
+[32mMoved Tiger_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\Tiger_Makro_Delta_WE_20250126.txt
+[32mMoved Tiger_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\Tiger_Makro_WE_20250202.txt
+[32mMoved VinimarkSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\VinimarkSA_Makro_Delta_WE_20250126.txt
+[32mMoved VinimarkSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\VinimarkSA_Makro_WE_20250202.txt
+
+
+[1m[37mRetailer: MassDiscounters
+
+[32mMoved EdwardSnellAndCoSA_MassDiscounters_WE_20230604.txt to R:\RawData\Game\ToUpload\EdwardSnellAndCoSA_MassDiscounters_WE_20230604.txt
+[32mMoved HenkelSA_MassDiscounters_Delta_WE_20190623.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_Delta_WE_20190623.txt
+[32mMoved HenkelSA_MassDiscounters_WE_20240407.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_WE_20240407.txt
+[32mMoved LindtSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\LindtSA_MassDiscounters_WE_20250202.txt
+[32mMoved MarsSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\MarsSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved MarsSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\MarsSA_MassDiscounters_WE_20250202.txt
+[32mMoved McCainSA_MassDiscounters_Delta_WE_20230604.txt to R:\RawData\Game\ToUpload\McCainSA_MassDiscounters_Delta_WE_20230604.txt
+[32mMoved McCainSA_MassDiscounters_WE_20241208.txt to R:\RawData\Game\ToUpload\McCainSA_MassDiscounters_WE_20241208.txt
+[32mMoved MondelezSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\MondelezSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved MondelezSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\MondelezSA_MassDiscounters_WE_20250202.txt
+[32mMoved PernodRicardSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\PernodRicardSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved PernodRicardSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\PernodRicardSA_MassDiscounters_WE_20250202.txt
+[32mMoved RCLSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\RCLSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved RCLSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\RCLSA_MassDiscounters_WE_20250202.txt
+[32mMoved RhodesSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\RhodesSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved RhodesSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\RhodesSA_MassDiscounters_WE_20250202.txt
+[32mMoved SANULACSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\SANULACSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved SANULACSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\SANULACSA_MassDiscounters_WE_20250202.txt
+[32mMoved TigerSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\TigerSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved TigerSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\TigerSA_MassDiscounters_WE_20250202.txt
+[32mMoved VinimarkSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\VinimarkSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved VinimarkSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\VinimarkSA_MassDiscounters_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashWholesale
+
+[32mMoved MarsSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MarsSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved MarsSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MarsSA_MassCashWholesale_WE_20250202.txt
+[32mMoved McCainSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\McCainSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved McCainSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\McCainSA_MassCashWholesale_WE_20250202.txt
+[32mMoved Mondelez_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Mondelez_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Mondelez_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Mondelez_MassCashWholesale_WE_20250202.txt
+[32mMoved PernodRicardSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\PernodRicardSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved PernodRicardSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\PernodRicardSA_MassCashWholesale_WE_20250202.txt
+[32mMoved RCL_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RCL_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved RCL_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RCL_MassCashWholesale_WE_20250202.txt
+[32mMoved RhodesSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RhodesSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved RhodesSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RhodesSA_MassCashWholesale_WE_20250202.txt
+[32mMoved SANULAC_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\SANULAC_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved SANULAC_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\SANULAC_MassCashWholesale_WE_20250202.txt
+[32mMoved Tiger_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Tiger_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Tiger_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Tiger_MassCashWholesale_WE_20250202.txt
+[32mMoved Vinimark_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Vinimark_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved Vinimark_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Vinimark_MassCashWholesale_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashRetail
+
+[32mMoved MarsSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\MarsSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved MarsSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\MarsSA_MassCashRetail_WE_20250202.txt
+[32mMoved McCainSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\McCainSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved McCainSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\McCainSA_MassCashRetail_WE_20250202.txt
+[32mMoved Mondelez_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\Mondelez_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved Mondelez_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\Mondelez_MassCashRetail_WE_20250202.txt
+[32mMoved PernodRicardSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\PernodRicardSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved PernodRicardSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\PernodRicardSA_MassCashRetail_WE_20250202.txt
+[32mMoved RCLSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\RCLSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved RCLSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\RCLSA_MassCashRetail_WE_20250202.txt
+[32mMoved RhodesSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\RhodesSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved RhodesSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\RhodesSA_MassCashRetail_WE_20250202.txt
+[32mMoved RIESESFOODSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\RIESESFOODSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved RIESESFOODSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\RIESESFOODSA_MassCashRetail_WE_20250202.txt
+[32mMoved SANULACSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\SANULACSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved SANULACSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\SANULACSA_MassCashRetail_WE_20250202.txt
+[32mMoved Tiger_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\Tiger_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved Tiger_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\Tiger_MassCashRetail_WE_20250202.txt
+[32mMoved VinimarkSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\VinimarkSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved VinimarkSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\VinimarkSA_MassCashRetail_WE_20250202.txt
+
+
+[1m[37mRetailer: KitKat
+
+[32mMoved RhodesSA_KitKat_Delta_WE_20250126.txt to R:\RawData\KitKat\ToUpload\RhodesSA_KitKat_Delta_WE_20250126.txt
+[32mMoved RhodesSA_KitKat_WE_20250202.txt to R:\RawData\KitKat\ToUpload\RhodesSA_KitKat_WE_20250202.txt
+[32mMoved SUNBAKESA_KitKat_Delta_WE_20250126.txt to R:\RawData\KitKat\ToUpload\SUNBAKESA_KitKat_Delta_WE_20250126.txt
+[32mMoved SUNBAKESA_KitKat_WE_20250202.txt to R:\RawData\KitKat\ToUpload\SUNBAKESA_KitKat_WE_20250202.txt
+[32mMoved TigerSA_KitKat_Delta_WE_20250126.txt to R:\RawData\KitKat\ToUpload\TigerSA_KitKat_Delta_WE_20250126.txt
+[32mMoved TigerSA_KitKat_WE_20250202.txt to R:\RawData\KitKat\ToUpload\TigerSA_KitKat_WE_20250202.txt
+
+
+[1m[37mRetailer: Massbuild
+
+[32mMoved RIESESFOODSA_Massbuild_Delta_WE_20250126.txt to R:\RawData\Massbuild\ToUpload\RIESESFOODSA_Massbuild_Delta_WE_20250126.txt
+[32mMoved RIESESFOODSA_Massbuild_WE_20250202.txt to R:\RawData\Massbuild\ToUpload\RIESESFOODSA_Massbuild_WE_20250202.txt
+
+
+Monitoring R:\RawData\Massmart Data for new files...
+No new files detected for the past less than a minute. Terminating script.
+[1m[37mRetailer: Makro
+
+[32mMoved GSK_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\GSK_Makro_Delta_WE_20250126.txt
+[32mMoved GSK_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\GSK_Makro_WE_20250202.txt
+[32mMoved HenkelSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\HenkelSA_Makro_Delta_WE_20250126.txt
+[32mMoved HenkelSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\HenkelSA_Makro_WE_20250202.txt
+[32mMoved MartinMartinSA_Makro_Delta_WE_20250126.txt to R:\RawData\Makro Updated\\ToUpload\MartinMartinSA_Makro_Delta_WE_20250126.txt
+[32mMoved MartinMartinSA_Makro_WE_20250202.txt to R:\RawData\Makro Updated\\ToUpload\MartinMartinSA_Makro_WE_20250202.txt
+
+
+[1m[37mRetailer: MassDiscounters
+
+[32mMoved GSKSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\GSKSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved GSKSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\GSKSA_MassDiscounters_WE_20250202.txt
+[32mMoved HenkelSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved HenkelSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_WE_20250202.txt
+[32mMoved MartinMartinSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\MartinMartinSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved MartinMartinSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\MartinMartinSA_MassDiscounters_WE_20250202.txt
+[32mMoved PandGSA_MassDiscounters_Delta_WE_20250126.txt to R:\RawData\Game\ToUpload\PandGSA_MassDiscounters_Delta_WE_20250126.txt
+[32mMoved PandGSA_MassDiscounters_WE_20250202.txt to R:\RawData\Game\ToUpload\PandGSA_MassDiscounters_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashWholesale
+
+[32mMoved GSK_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\GSK_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved GSK_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\GSK_MassCashWholesale_WE_20250202.txt
+[32mMoved MartinMartinSA_MassCashWholesale_Delta_WE_20250126.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MartinMartinSA_MassCashWholesale_Delta_WE_20250126.txt
+[32mMoved MartinMartinSA_MassCashWholesale_WE_20250202.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MartinMartinSA_MassCashWholesale_WE_20250202.txt
+
+
+[1m[37mRetailer: MassCashRetail
+
+[32mMoved GSK_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\GSK_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved GSK_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\GSK_MassCashRetail_WE_20250202.txt
+[32mMoved MartinMartinSA_MassCashRetail_Delta_WE_20250126.txt to R:\RawData\Masscash\Retail\ToUpload\MartinMartinSA_MassCashRetail_Delta_WE_20250126.txt
+[32mMoved MartinMartinSA_MassCashRetail_WE_20250202.txt to R:\RawData\Masscash\Retail\ToUpload\MartinMartinSA_MassCashRetail_WE_20250202.txt
+
+
+[1m[37mRetailer: KitKat
+
+[32mMoved GSKSA_KitKat_Delta_WE_20250126.txt to R:\RawData\KitKat\ToUpload\GSKSA_KitKat_Delta_WE_20250126.txt
+[32mMoved GSKSA_KitKat_WE_20250202.txt to R:\RawData\KitKat\ToUpload\GSKSA_KitKat_WE_20250202.txt
+
+
+[1m[37mRetailer: Massbuild
+
+[32mMoved HenkelSA_Massbuild_WE_20250126.txt to R:\RawData\Massbuild\ToUpload\HenkelSA_Massbuild_WE_20250126.txt
+[32mMoved HenkelSA_Massbuild_WE_20250202.txt to R:\RawData\Massbuild\ToUpload\HenkelSA_Massbuild_WE_20250202.txt
+
+
+Monitoring R:\RawData\Massmart Data for new files...
+No new files detected for the past less than a minute. Terminating script.
+[1m[37mRetailer: Makro
+
+[32mMoved Adcock_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Adcock_Makro_Delta_WE_20250216.txt
+[32mMoved Adcock_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Adcock_Makro_WE_20250223.txt
+[32mMoved AfriqueSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\AfriqueSA_Makro_Delta_WE_20250216.txt
+[32mMoved AfriqueSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\AfriqueSA_Makro_WE_20250223.txt
+[32mMoved AlpenFoodsSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\AlpenFoodsSA_Makro_Delta_WE_20250216.txt
+[32mMoved AlpenFoodsSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\AlpenFoodsSA_Makro_WE_20250223.txt
+[32mMoved AspenSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\AspenSA_Makro_Delta_WE_20250216.txt
+[32mMoved AspenSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\AspenSA_Makro_WE_20250223.txt
+[32mMoved BIC_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\BIC_Makro_Delta_WE_20250216.txt
+[32mMoved BIC_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\BIC_Makro_WE_20250223.txt
+[32mMoved Campari_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Campari_Makro_Delta_WE_20250216.txt
+[32mMoved Campari_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Campari_Makro_WE_20250223.txt
+[32mMoved Chill_BeveragesSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Chill_BeveragesSA_Makro_Delta_WE_20250216.txt
+[32mMoved Chill_BeveragesSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Chill_BeveragesSA_Makro_WE_20250223.txt
+[32mMoved ClippaSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\ClippaSA_Makro_Delta_WE_20250216.txt
+[32mMoved ClippaSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\ClippaSA_Makro_WE_20250223.txt
+[32mMoved CloverSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\CloverSA_Makro_Delta_WE_20250216.txt
+[32mMoved CloverSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\CloverSA_Makro_WE_20250223.txt
+[32mMoved DanoneCircanaSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\DanoneCircanaSA_Makro_Delta_WE_20250216.txt
+[32mMoved DanoneCircanaSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\DanoneCircanaSA_Makro_WE_20250223.txt
+[32mMoved Dr_Oetker SA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Dr_Oetker SA_Makro_Delta_WE_20250216.txt
+[32mMoved Dr_Oetker SA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Dr_Oetker SA_Makro_WE_20250223.txt
+[32mMoved DuracellPhoenixSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\DuracellPhoenixSA_Makro_Delta_WE_20250216.txt
+[32mMoved DuracellPhoenixSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\DuracellPhoenixSA_Makro_WE_20250223.txt
+[32mMoved EnergizerSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\EnergizerSA_Makro_Delta_WE_20250216.txt
+[32mMoved EnergizerSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\EnergizerSA_Makro_WE_20250223.txt
+[32mMoved FroneriSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\FroneriSA_Makro_Delta_WE_20250216.txt
+[32mMoved FroneriSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\FroneriSA_Makro_WE_20250223.txt
+[32mMoved GSK_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\GSK_Makro_Delta_WE_20250216.txt
+[32mMoved GSK_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\GSK_Makro_WE_20250223.txt
+[32mMoved HenkelSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\HenkelSA_Makro_Delta_WE_20250216.txt
+[32mMoved HenkelSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\HenkelSA_Makro_WE_20250223.txt
+[32mMoved JoyaSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\JoyaSA_Makro_Delta_WE_20250216.txt
+[32mMoved JoyaSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\JoyaSA_Makro_WE_20250223.txt
+[32mMoved JTISA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\JTISA_Makro_Delta_WE_20250216.txt
+[32mMoved JTISA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\JTISA_Makro_WE_20250223.txt
+[32mMoved LactalisSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\LactalisSA_Makro_Delta_WE_20250216.txt
+[32mMoved LactalisSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\LactalisSA_Makro_WE_20250223.txt
+[32mMoved LindtSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\LindtSA_Makro_Delta_WE_20250216.txt
+[32mMoved LindtSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\LindtSA_Makro_WE_20250223.txt
+[32mMoved MarsSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\MarsSA_Makro_Delta_WE_20250216.txt
+[32mMoved MarsSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\MarsSA_Makro_WE_20250223.txt
+[32mMoved MartinMartinSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\MartinMartinSA_Makro_Delta_WE_20250216.txt
+[32mMoved MartinMartinSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\MartinMartinSA_Makro_WE_20250223.txt
+[32mMoved McCainSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\McCainSA_Makro_Delta_WE_20250216.txt
+[32mMoved McCainSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\McCainSA_Makro_WE_20250223.txt
+[32mMoved Mondelez_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Mondelez_Makro_Delta_WE_20250216.txt
+[32mMoved Mondelez_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Mondelez_Makro_WE_20250223.txt
+[32mMoved PernodRicardSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\PernodRicardSA_Makro_Delta_WE_20250216.txt
+[32mMoved PernodRicardSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\PernodRicardSA_Makro_WE_20250223.txt
+[32mMoved RCLSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\RCLSA_Makro_Delta_WE_20250216.txt
+[32mMoved RCLSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\RCLSA_Makro_WE_20250223.txt
+[32mMoved RhodesSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\RhodesSA_Makro_Delta_WE_20250216.txt
+[32mMoved RhodesSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\RhodesSA_Makro_WE_20250223.txt
+[32mMoved RIESESFOODSA_Makro_Delta_WE_20250209.txt to R:\RawData\Makro Updated\\ToUpload\RIESESFOODSA_Makro_Delta_WE_20250209.txt
+[32mMoved RIESESFOODSA_Makro_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\RIESESFOODSA_Makro_WE_20250216.txt
+[32mMoved SANULACSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\SANULACSA_Makro_Delta_WE_20250216.txt
+[32mMoved SANULACSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\SANULACSA_Makro_WE_20250223.txt
+[32mMoved Tiger_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\Tiger_Makro_Delta_WE_20250216.txt
+[32mMoved Tiger_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\Tiger_Makro_WE_20250223.txt
+[32mMoved VinimarkSA_Makro_Delta_WE_20250216.txt to R:\RawData\Makro Updated\\ToUpload\VinimarkSA_Makro_Delta_WE_20250216.txt
+[32mMoved VinimarkSA_Makro_WE_20250223.txt to R:\RawData\Makro Updated\\ToUpload\VinimarkSA_Makro_WE_20250223.txt
+
+
+[1m[37mRetailer: MassDiscounters
+
+[32mMoved AdcockSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\AdcockSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved AdcockSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\AdcockSA_MassDiscounters_WE_20250223.txt
+[32mMoved AfriqueSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\AfriqueSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved AfriqueSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\AfriqueSA_MassDiscounters_WE_20250223.txt
+[32mMoved AlpenFoodsSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\AlpenFoodsSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved AlpenFoodsSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\AlpenFoodsSA_MassDiscounters_WE_20250223.txt
+[32mMoved AspenSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\AspenSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved AspenSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\AspenSA_MassDiscounters_WE_20250223.txt
+[32mMoved BICSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\BICSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved BICSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\BICSA_MassDiscounters_WE_20250223.txt
+[32mMoved CampariSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\CampariSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved CampariSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\CampariSA_MassDiscounters_WE_20250223.txt
+[32mMoved ClippaSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\ClippaSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved ClippaSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\ClippaSA_MassDiscounters_WE_20250223.txt
+[32mMoved CloverSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\CloverSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved CloverSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\CloverSA_MassDiscounters_WE_20250223.txt
+[32mMoved DanoneCircanaSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\DanoneCircanaSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved DanoneCircanaSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\DanoneCircanaSA_MassDiscounters_WE_20250223.txt
+[32mMoved DuracellSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\DuracellSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved DuracellSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\DuracellSA_MassDiscounters_WE_20250223.txt
+[33mSkipping EdwardSnellAndCoSA_MassDiscounters_WE_20230604.txt as it already exists in R:\RawData\Game\ToUpload
+[32mMoved EnergizerSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\EnergizerSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved EnergizerSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\EnergizerSA_MassDiscounters_WE_20250223.txt
+[32mMoved GSKSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\GSKSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved GSKSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\GSKSA_MassDiscounters_WE_20250223.txt
+[33mSkipping HenkelSA_MassDiscounters_Delta_WE_20190623.txt as it already exists in R:\RawData\Game\ToUpload
+[32mMoved HenkelSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_Delta_WE_20250216.txt
+[33mSkipping HenkelSA_MassDiscounters_WE_20240407.txt as it already exists in R:\RawData\Game\ToUpload
+[32mMoved HenkelSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\HenkelSA_MassDiscounters_WE_20250223.txt
+[32mMoved JoyaSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\JoyaSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved JoyaSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\JoyaSA_MassDiscounters_WE_20250223.txt
+[32mMoved JTISA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\JTISA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved JTISA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\JTISA_MassDiscounters_WE_20250223.txt
+[32mMoved LactalisSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\LactalisSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved LactalisSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\LactalisSA_MassDiscounters_WE_20250223.txt
+[32mMoved LindtSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\LindtSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved LindtSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\LindtSA_MassDiscounters_WE_20250223.txt
+[32mMoved MarsSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\MarsSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved MarsSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\MarsSA_MassDiscounters_WE_20250223.txt
+[32mMoved MartinMartinSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\MartinMartinSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved MartinMartinSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\MartinMartinSA_MassDiscounters_WE_20250223.txt
+[33mSkipping McCainSA_MassDiscounters_Delta_WE_20230604.txt as it already exists in R:\RawData\Game\ToUpload
+[33mSkipping McCainSA_MassDiscounters_WE_20241208.txt as it already exists in R:\RawData\Game\ToUpload
+[32mMoved MondelezSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\MondelezSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved MondelezSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\MondelezSA_MassDiscounters_WE_20250223.txt
+[32mMoved PandGSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\PandGSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved PandGSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\PandGSA_MassDiscounters_WE_20250223.txt
+[32mMoved PernodRicardSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\PernodRicardSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved PernodRicardSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\PernodRicardSA_MassDiscounters_WE_20250223.txt
+[32mMoved RCLSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\RCLSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved RCLSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\RCLSA_MassDiscounters_WE_20250223.txt
+[32mMoved RhodesSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\RhodesSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved RhodesSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\RhodesSA_MassDiscounters_WE_20250223.txt
+[32mMoved SANULACSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\SANULACSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved SANULACSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\SANULACSA_MassDiscounters_WE_20250223.txt
+[32mMoved TigerSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\TigerSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved TigerSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\TigerSA_MassDiscounters_WE_20250223.txt
+[32mMoved VinimarkSA_MassDiscounters_Delta_WE_20250216.txt to R:\RawData\Game\ToUpload\VinimarkSA_MassDiscounters_Delta_WE_20250216.txt
+[32mMoved VinimarkSA_MassDiscounters_WE_20250223.txt to R:\RawData\Game\ToUpload\VinimarkSA_MassDiscounters_WE_20250223.txt
+
+
+[1m[37mRetailer: MassCashWholesale
+
+[32mMoved Adcock_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Adcock_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Adcock_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Adcock_MassCashWholesale_WE_20250223.txt
+[32mMoved AfriqueSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AfriqueSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved AfriqueSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AfriqueSA_MassCashWholesale_WE_20250223.txt
+[32mMoved AlpenFoodsSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AlpenFoodsSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved AlpenFoodsSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AlpenFoodsSA_MassCashWholesale_WE_20250223.txt
+[32mMoved AspenSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AspenSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved AspenSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\AspenSA_MassCashWholesale_WE_20250223.txt
+[32mMoved Aspen_MassCashWholesale_Delta_WE_20250209.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Aspen_MassCashWholesale_Delta_WE_20250209.txt
+[32mMoved Aspen_MassCashWholesale_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Aspen_MassCashWholesale_WE_20250216.txt
+[32mMoved BIC_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\BIC_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved BIC_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\BIC_MassCashWholesale_WE_20250223.txt
+[32mMoved Campari_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Campari_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Campari_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Campari_MassCashWholesale_WE_20250223.txt
+[32mMoved Chill_Beverages_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Chill_Beverages_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Chill_Beverages_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Chill_Beverages_MassCashWholesale_WE_20250223.txt
+[32mMoved ClippaSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\ClippaSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved ClippaSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\ClippaSA_MassCashWholesale_WE_20250223.txt
+[32mMoved CloverSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\CloverSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved CloverSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\CloverSA_MassCashWholesale_WE_20250223.txt
+[32mMoved DanoneCircanaSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DanoneCircanaSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved DanoneCircanaSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DanoneCircanaSA_MassCashWholesale_WE_20250223.txt
+[32mMoved DuracellPhoenixSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DuracellPhoenixSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved DuracellPhoenixSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\DuracellPhoenixSA_MassCashWholesale_WE_20250223.txt
+[32mMoved EnergizerSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\EnergizerSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved EnergizerSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\EnergizerSA_MassCashWholesale_WE_20250223.txt
+[32mMoved Froneri_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Froneri_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Froneri_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Froneri_MassCashWholesale_WE_20250223.txt
+[32mMoved GSK_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\GSK_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved GSK_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\GSK_MassCashWholesale_WE_20250223.txt
+[32mMoved Joya_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Joya_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Joya_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Joya_MassCashWholesale_WE_20250223.txt
+[32mMoved JTISA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\JTISA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved JTISA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\JTISA_MassCashWholesale_WE_20250223.txt
+[32mMoved LactalisSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\LactalisSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved LactalisSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\LactalisSA_MassCashWholesale_WE_20250223.txt
+[32mMoved MarsSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MarsSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved MarsSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MarsSA_MassCashWholesale_WE_20250223.txt
+[32mMoved MartinMartinSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MartinMartinSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved MartinMartinSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\MartinMartinSA_MassCashWholesale_WE_20250223.txt
+[32mMoved McCainSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\McCainSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved McCainSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\McCainSA_MassCashWholesale_WE_20250223.txt
+[32mMoved Mondelez_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Mondelez_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Mondelez_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Mondelez_MassCashWholesale_WE_20250223.txt
+[32mMoved PernodRicardSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\PernodRicardSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved PernodRicardSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\PernodRicardSA_MassCashWholesale_WE_20250223.txt
+[32mMoved RCL_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RCL_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved RCL_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RCL_MassCashWholesale_WE_20250223.txt
+[32mMoved RhodesSA_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RhodesSA_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved RhodesSA_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\RhodesSA_MassCashWholesale_WE_20250223.txt
+[32mMoved SANULAC_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\SANULAC_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved SANULAC_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\SANULAC_MassCashWholesale_WE_20250223.txt
+[32mMoved Tiger_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Tiger_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Tiger_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Tiger_MassCashWholesale_WE_20250223.txt
+[32mMoved Vinimark_MassCashWholesale_Delta_WE_20250216.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Vinimark_MassCashWholesale_Delta_WE_20250216.txt
+[32mMoved Vinimark_MassCashWholesale_WE_20250223.txt to R:\RawData\Masscash\\Wholesale\ToUpload\Vinimark_MassCashWholesale_WE_20250223.txt
+
+
+[1m[37mRetailer: MassCashRetail
+
+[32mMoved Adcock_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\Adcock_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved Adcock_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\Adcock_MassCashRetail_WE_20250223.txt
+[32mMoved AlpenFoodsSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\AlpenFoodsSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved AlpenFoodsSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\AlpenFoodsSA_MassCashRetail_WE_20250223.txt
+[32mMoved AspenSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\AspenSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved AspenSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\AspenSA_MassCashRetail_WE_20250223.txt
+[32mMoved BIC_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\BIC_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved BIC_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\BIC_MassCashRetail_WE_20250223.txt
+[32mMoved Campari_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\Campari_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved Campari_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\Campari_MassCashRetail_WE_20250223.txt
+[32mMoved Chill_BeveragesSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\Chill_BeveragesSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved Chill_BeveragesSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\Chill_BeveragesSA_MassCashRetail_WE_20250223.txt
+[32mMoved ClippaSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\ClippaSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved ClippaSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\ClippaSA_MassCashRetail_WE_20250223.txt
+[32mMoved CloverSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\CloverSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved CloverSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\CloverSA_MassCashRetail_WE_20250223.txt
+[32mMoved DanoneCircanaSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\DanoneCircanaSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved DanoneCircanaSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\DanoneCircanaSA_MassCashRetail_WE_20250223.txt
+[32mMoved FroneriSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\FroneriSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved FroneriSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\FroneriSA_MassCashRetail_WE_20250223.txt
+[32mMoved GSK_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\GSK_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved GSK_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\GSK_MassCashRetail_WE_20250223.txt
+[32mMoved JoyaSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\JoyaSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved JoyaSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\JoyaSA_MassCashRetail_WE_20250223.txt
+[32mMoved JTISA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\JTISA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved JTISA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\JTISA_MassCashRetail_WE_20250223.txt
+[32mMoved LactalisSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\LactalisSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved LactalisSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\LactalisSA_MassCashRetail_WE_20250223.txt
+[32mMoved MarsSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\MarsSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved MarsSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\MarsSA_MassCashRetail_WE_20250223.txt
+[32mMoved MartinMartinSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\MartinMartinSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved MartinMartinSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\MartinMartinSA_MassCashRetail_WE_20250223.txt
+[32mMoved McCainSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\McCainSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved McCainSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\McCainSA_MassCashRetail_WE_20250223.txt
+[32mMoved Mondelez_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\Mondelez_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved Mondelez_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\Mondelez_MassCashRetail_WE_20250223.txt
+[32mMoved PernodRicardSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\PernodRicardSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved PernodRicardSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\PernodRicardSA_MassCashRetail_WE_20250223.txt
+[32mMoved RCLSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\RCLSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved RCLSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\RCLSA_MassCashRetail_WE_20250223.txt
+[32mMoved RhodesSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\RhodesSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved RhodesSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\RhodesSA_MassCashRetail_WE_20250223.txt
+[32mMoved RIESESFOODSA_MassCashRetail_Delta_WE_20250209.txt to R:\RawData\Masscash\Retail\ToUpload\RIESESFOODSA_MassCashRetail_Delta_WE_20250209.txt
+[32mMoved RIESESFOODSA_MassCashRetail_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\RIESESFOODSA_MassCashRetail_WE_20250216.txt
+[32mMoved SANULACSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\SANULACSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved SANULACSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\SANULACSA_MassCashRetail_WE_20250223.txt
+[32mMoved Tiger_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\Tiger_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved Tiger_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\Tiger_MassCashRetail_WE_20250223.txt
+[32mMoved VinimarkSA_MassCashRetail_Delta_WE_20250216.txt to R:\RawData\Masscash\Retail\ToUpload\VinimarkSA_MassCashRetail_Delta_WE_20250216.txt
+[32mMoved VinimarkSA_MassCashRetail_WE_20250223.txt to R:\RawData\Masscash\Retail\ToUpload\VinimarkSA_MassCashRetail_WE_20250223.txt
+
+
+[1m[37mRetailer: KitKat
+
+[32mMoved FroneriDairymaidsSA_KitKat_Delta_WE_20250216.txt to R:\RawData\KitKat\ToUpload\FroneriDairymaidsSA_KitKat_Delta_WE_20250216.txt
+[32mMoved FroneriDairymaidsSA_KitKat_WE_20250223.txt to R:\RawData\KitKat\ToUpload\FroneriDairymaidsSA_KitKat_WE_20250223.txt
+[32mMoved GSKSA_KitKat_Delta_WE_20250216.txt to R:\RawData\KitKat\ToUpload\GSKSA_KitKat_Delta_WE_20250216.txt
+[32mMoved GSKSA_KitKat_WE_20250223.txt to R:\RawData\KitKat\ToUpload\GSKSA_KitKat_WE_20250223.txt
+[32mMoved RhodesSA_KitKat_Delta_WE_20250216.txt to R:\RawData\KitKat\ToUpload\RhodesSA_KitKat_Delta_WE_20250216.txt
+[32mMoved RhodesSA_KitKat_WE_20250223.txt to R:\RawData\KitKat\ToUpload\RhodesSA_KitKat_WE_20250223.txt
+[32mMoved SUNBAKESA_KitKat_Delta_WE_20250216.txt to R:\RawData\KitKat\ToUpload\SUNBAKESA_KitKat_Delta_WE_20250216.txt
+[32mMoved SUNBAKESA_KitKat_WE_20250223.txt to R:\RawData\KitKat\ToUpload\SUNBAKESA_KitKat_WE_20250223.txt
+[32mMoved TigerSA_KitKat_Delta_WE_20250216.txt to R:\RawData\KitKat\ToUpload\TigerSA_KitKat_Delta_WE_20250216.txt
+[32mMoved TigerSA_KitKat_WE_20250223.txt to R:\RawData\KitKat\ToUpload\TigerSA_KitKat_WE_20250223.txt
+
+
+[1m[37mRetailer: Massbuild
+
+[32mMoved AGROSERVESA_Massbuild_WE_20250223.txt to R:\RawData\Massbuild\ToUpload\AGROSERVESA_Massbuild_WE_20250223.txt
+[32mMoved EnergizerSA_Massbuild_WE_20250223.txt to R:\RawData\Massbuild\ToUpload\EnergizerSA_Massbuild_WE_20250223.txt
+[32mMoved HenkelSA_Massbuild_WE_20250223.txt to R:\RawData\Massbuild\ToUpload\HenkelSA_Massbuild_WE_20250223.txt
+[32mMoved RIESESFOODSA_Massbuild_Delta_WE_20250209.txt to R:\RawData\Massbuild\ToUpload\RIESESFOODSA_Massbuild_Delta_WE_20250209.txt
+[32mMoved RIESESFOODSA_Massbuild_WE_20250216.txt to R:\RawData\Massbuild\ToUpload\RIESESFOODSA_Massbuild_WE_20250216.txt
+
+
+Monitoring R:\RawData\Massmart Data for new files...
+No new files detected for the past less than a minute. Terminating script.
